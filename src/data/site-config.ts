@@ -31,7 +31,7 @@ const siteConfig: SiteConfig = {
         {
             text: 'Tags',
             href: '/tags'
-        }
+        },
         {
             text: 'Github',
             href: 'https://github.com/jfvalderramabosque'
