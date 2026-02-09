@@ -8,7 +8,7 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Ethan Donovan'
     },
-    title: 'Juan Felipe Valderrama',
+    title: 'Juan Felipe Valderrama Peñaloza',
     subtitle: 'Here it is my personal blog.',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
